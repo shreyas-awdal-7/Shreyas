@@ -19,6 +19,6 @@ Username: admin
 Password: Test@123
 
 **************************Donor Credential**********************
-Username: amitk@gmail.com
+Username: shreyas@gmail.com
 Password: Test@123
 Or Register a new user.
